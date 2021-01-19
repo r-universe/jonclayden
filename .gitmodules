@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "divest"]
+	path = divest
+	url = https://github.com/jonclayden/divest
+	shallow = true
+[submodule "imbibe"]
+	path = imbibe
+	url = https://github.com/jonclayden/imbibe
+	shallow = true
+[submodule "loder"]
+	path = loder
+	url = https://github.com/jonclayden/loder
+	shallow = true
+[submodule "mmand"]
+	path = mmand
+	url = https://github.com/jonclayden/mmand
+	shallow = true
+[submodule "ore"]
+	path = ore
+	url = https://github.com/jonclayden/ore
+	shallow = true
+[submodule "reportr"]
+	path = reportr
+	url = https://github.com/jonclayden/reportr
+	shallow = true
+[submodule "RNifti"]
+	path = RNifti
+	url = https://github.com/jonclayden/rnifti
+	shallow = true
+[submodule "RNiftyReg"]
+	path = RNiftyReg
+	url = https://github.com/jonclayden/rniftyreg
+	shallow = true
+[submodule "shades"]
+	path = shades
+	url = https://github.com/jonclayden/shades
+	shallow = true
+[submodule "soma"]
+	path = soma
+	url = https://github.com/jonclayden/soma
+	shallow = true
