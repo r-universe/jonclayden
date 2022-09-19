@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "divest"]
+	path = divest
+	url = https://github.com/jonclayden/divest
+	shallow = true
+	registered = true
 [submodule "imbibe"]
 	path = imbibe
 	url = https://github.com/jonclayden/imbibe
+	shallow = true
+	registered = true
+[submodule "loder"]
+	path = loder
+	url = https://github.com/jonclayden/loder
+	shallow = true
+	registered = true
+[submodule "mmand"]
+	path = mmand
+	url = https://github.com/jonclayden/mmand
 	shallow = true
 	registered = true
 [submodule "ore"]
