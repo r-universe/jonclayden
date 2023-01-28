@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "mritc",
+    "oncran": true
+  },
+  {
     "package": "ore",
     "oncran": true
   },

@@ -23,6 +23,11 @@
 	url = https://github.com/jonclayden/mmand
 	shallow = true
 	registered = true
+[submodule "mritc"]
+	path = mritc
+	url = https://github.com/jonclayden/mritc
+	shallow = true
+	registered = true
 [submodule "ore"]
 	path = ore
 	url = https://github.com/jonclayden/ore
