@@ -33,6 +33,11 @@
 	url = https://github.com/jonclayden/ore
 	shallow = true
 	registered = true
+[submodule "RcppArray"]
+	path = RcppArray
+	url = https://github.com/jonclayden/rcpparray
+	shallow = true
+	registered = true
 [submodule "reportr"]
 	path = reportr
 	url = https://github.com/jonclayden/reportr

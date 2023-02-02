@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "RcppArray",
+    "oncran": true
+  },
+  {
     "package": "reportr",
     "oncran": true
   },
