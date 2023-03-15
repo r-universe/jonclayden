@@ -3,26 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "divest"]
-	path = divest
-	url = https://github.com/jonclayden/divest
-	shallow = true
-	registered = true
-[submodule "imbibe"]
-	path = imbibe
-	url = https://github.com/jonclayden/imbibe
-	shallow = true
-	registered = true
-[submodule "loder"]
-	path = loder
-	url = https://github.com/jonclayden/loder
-	shallow = true
-	registered = true
-[submodule "mmand"]
-	path = mmand
-	url = https://github.com/jonclayden/mmand
-	shallow = true
-	registered = true
 [submodule "mritc"]
 	path = mritc
 	url = https://github.com/jonclayden/mritc
@@ -33,24 +13,14 @@
 	url = https://github.com/jonclayden/ore
 	shallow = true
 	registered = true
-[submodule "RcppArray"]
-	path = RcppArray
-	url = https://github.com/jonclayden/rcpparray
-	shallow = true
-	registered = true
 [submodule "reportr"]
 	path = reportr
 	url = https://github.com/jonclayden/reportr
 	shallow = true
 	registered = true
-[submodule "RNifti"]
-	path = RNifti
-	url = https://github.com/jonclayden/rnifti
-	shallow = true
-	registered = true
-[submodule "RNiftyReg"]
-	path = RNiftyReg
-	url = https://github.com/jonclayden/rniftyreg
+[submodule "soma"]
+	path = soma
+	url = https://github.com/jonclayden/soma
 	shallow = true
 	registered = true
 [submodule "shades"]
@@ -58,8 +28,38 @@
 	url = https://github.com/jonclayden/shades
 	shallow = true
 	registered = true
-[submodule "soma"]
-	path = soma
-	url = https://github.com/jonclayden/soma
+[submodule "divest"]
+	path = divest
+	url = https://github.com/jonclayden/divest
+	shallow = true
+	registered = true
+[submodule "RNiftyReg"]
+	path = RNiftyReg
+	url = https://github.com/jonclayden/rniftyreg
+	shallow = true
+	registered = true
+[submodule "imbibe"]
+	path = imbibe
+	url = https://github.com/jonclayden/imbibe
+	shallow = true
+	registered = true
+[submodule "RcppArray"]
+	path = RcppArray
+	url = https://github.com/jonclayden/rcpparray
+	shallow = true
+	registered = true
+[submodule "RNifti"]
+	path = RNifti
+	url = https://github.com/jonclayden/rnifti
+	shallow = true
+	registered = true
+[submodule "loder"]
+	path = loder
+	url = https://github.com/jonclayden/loder
+	shallow = true
+	registered = true
+[submodule "mmand"]
+	path = mmand
+	url = https://github.com/jonclayden/mmand
 	shallow = true
 	registered = true
