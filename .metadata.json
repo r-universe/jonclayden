@@ -1,42 +1,10 @@
 [
   {
-    "package": "mritc",
-    "oncran": true
-  },
-  {
-    "package": "ore",
-    "oncran": true
-  },
-  {
-    "package": "reportr",
-    "oncran": true
-  },
-  {
-    "package": "soma",
-    "oncran": true
-  },
-  {
-    "package": "shades",
-    "oncran": true
-  },
-  {
     "package": "divest",
     "oncran": true
   },
   {
-    "package": "RNiftyReg",
-    "oncran": true
-  },
-  {
     "package": "imbibe",
-    "oncran": true
-  },
-  {
-    "package": "RcppArray",
-    "oncran": true
-  },
-  {
-    "package": "RNifti",
     "oncran": true
   },
   {
@@ -45,6 +13,38 @@
   },
   {
     "package": "mmand",
+    "oncran": true
+  },
+  {
+    "package": "mritc",
+    "oncran": true
+  },
+  {
+    "package": "ore",
+    "oncran": true
+  },
+  {
+    "package": "RcppArray",
+    "oncran": true
+  },
+  {
+    "package": "reportr",
+    "oncran": true
+  },
+  {
+    "package": "RNifti",
+    "oncran": true
+  },
+  {
+    "package": "RNiftyReg",
+    "oncran": true
+  },
+  {
+    "package": "shades",
+    "oncran": true
+  },
+  {
+    "package": "soma",
     "oncran": true
   }
 ]
