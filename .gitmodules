@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RNifti"]
+	path = RNifti
+	url = https://github.com/jonclayden/rnifti
+[submodule "RNiftyReg"]
+	path = RNiftyReg
+	url = https://github.com/jonclayden/rniftyreg
+[submodule "RcppArray"]
+	path = RcppArray
+	url = https://github.com/jonclayden/rcpparray
 [submodule "divest"]
 	path = divest
 	url = https://github.com/jonclayden/divest
@@ -20,18 +29,9 @@
 [submodule "ore"]
 	path = ore
 	url = https://github.com/jonclayden/ore
-[submodule "RcppArray"]
-	path = RcppArray
-	url = https://github.com/jonclayden/rcpparray
 [submodule "reportr"]
 	path = reportr
 	url = https://github.com/jonclayden/reportr
-[submodule "RNifti"]
-	path = RNifti
-	url = https://github.com/jonclayden/rnifti
-[submodule "RNiftyReg"]
-	path = RNiftyReg
-	url = https://github.com/jonclayden/rniftyreg
 [submodule "shades"]
 	path = shades
 	url = https://github.com/jonclayden/shades
