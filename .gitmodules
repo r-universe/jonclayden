@@ -11,6 +11,9 @@
 [submodule "RcppArray"]
 	path = RcppArray
 	url = https://github.com/jonclayden/rcpparray
+[submodule "arrg"]
+	path = arrg
+	url = https://github.com/jonclayden/arrg
 [submodule "divest"]
 	path = divest
 	url = https://github.com/jonclayden/divest
