@@ -20,6 +20,9 @@
 [submodule "imbibe"]
 	path = imbibe
 	url = https://github.com/jonclayden/imbibe
+[submodule "imply"]
+	path = imply
+	url = https://github.com/jonclayden/imply
 [submodule "loder"]
 	path = loder
 	url = https://github.com/jonclayden/loder
